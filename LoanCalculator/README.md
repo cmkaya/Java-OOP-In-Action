@@ -1,6 +1,6 @@
 ## Understanding the Loan Calculation
 
-A loan credit consist of three main pillars, which user will enter to console:
+A loan credit consists of three main pillars, which the user will enter into the console:
 
 1. Principal
 2. Annual interest
@@ -26,4 +26,4 @@ Depending on inputs, the app will display two things:
 
 ---
 
-![Result](/Users/cemkaya/TempDev/Repositories/LoanCalculator/images/Result.png)
+![Result](https://github.com/cmkaya/Java-OOP-In-Action/blob/main/LoanCalculator/images/Result.png)
